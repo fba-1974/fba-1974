@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **fba-1974/fba-1974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,5 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: email only.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I'm not coding, I'm usually strength training—which is basically just                 debugging with different hardware
-
--->
